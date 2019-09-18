@@ -1,0 +1,18 @@
+[submodule "UC2LC"]
+	path = UC2LC
+	url = https://github.com/crowbc/UC2LC
+[submodule "age_calculator"]
+	path = age_calculator
+	url = https://github.com/crowbc/age_calculator
+[submodule "hello_world"]
+	path = hello_world
+	url = https://github.com/crowbc/hello_world
+[submodule "loopPower"]
+	path = loopPower
+	url = https://github.com/crowbc/loopPower
+[submodule "printChar"]
+	path = printChar
+	url = https://github.com/crowbc/printChar
+[submodule "temp_convert"]
+	path = temp_convert
+	url = https://github.com/crowbc/temp_convert
